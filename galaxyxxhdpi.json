@@ -1,0 +1,378 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_7_thumb.jpg",
+				"name": "Galaxy S4 7"
+
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_6_thumb.png",
+				"name": "Galaxy S4 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_5_thumb.jpg",
+				"name": "Galaxy S4 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_4_thumb.jpg",
+				"name": "Galaxy S4 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_3_thumb.jpg",
+				"name": "Galaxy S4 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_2_thumb.jpg",
+				"name": "Galaxy S4 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys4_1_thumb.png",
+				"name": "Galaxy S4 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_9.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_9_thumb.png",
+				"name": "Galaxy S5 9"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_8_thumb.png",
+				"name": "Galaxy S5 8"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_7_thumb.png",
+				"name": "Galaxy S5 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_6_thumb.png",
+				"name": "Galaxy S5 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_5_thumb.png",
+				"name": "Galaxy S5 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_4_thumb.png",
+				"name": "Galaxy S5 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_3_thumb.png",
+				"name": "Galaxy S5 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_2_thumb.png",
+				"name": "Galaxy S5 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys5_1_thumb.png",
+				"name": "Galaxy S5 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_12_thumb.jpg",
+				"name": "Galaxy S6 12"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_11.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_11_thumb.png",
+				"name": "Galaxy S6 11"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_10.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_10_thumb.png",
+				"name": "Galaxy S6 10"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_9.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_9_thumb.png",
+				"name": "Galaxy S6 9"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_8_thumb.png",
+				"name": "Galaxy S6 8"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_7_thumb.png",
+				"name": "Galaxy S6 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_6_thumb.jpg",
+				"name": "Galaxy S6 6"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_5_thumb.jpg",
+				"name": "Galaxy S6 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_4_thumb.png",
+				"name": "Galaxy S6 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_3_thumb.png",
+				"name": "Galaxy S6 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_2_thumb.png",
+				"name": "Galaxy S6 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys6_1_thumb.jpg",
+				"name": "Galaxy S6 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_6_thumb.png",
+				"name": "Note 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_5_thumb.png",
+				"name": "Note 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_4_thumb.png",
+				"name": "Note 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_3_thumb.png",
+				"name": "Note 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_2_thumb.png",
+				"name": "Note 2"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_1_thumb.png",
+				"name": "Note 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_13.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_13_thumb.jpg",
+				"name": "Galaxy S7 13"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_12_thumb.jpg",
+				"name": "Galaxy S7 12"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_11_thumb.jpg",
+				"name": "Galaxy S7 11"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_10_thumb.jpg",
+				"name": "Galaxy S7 10"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_9_thumb.jpg",
+				"name": "Galaxy S7 9"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_8_thumb.png",
+				"name": "Galaxy S7 8"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_7_thumb.png",
+				"name": "Galaxy S7 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_6_thumb.png",
+				"name": "Galaxy S7 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_5_thumb.png",
+				"name": "Galaxy S7 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_4_thumb.png",
+				"name": "Galaxy S7 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_3_thumb.jpg",
+				"name": "Galaxy S7 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_2_thumb.png",
+				"name": "Galaxy S7 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxys7_1_thumb.png",
+				"name": "Galaxy S7 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_9.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_9_thumb.png",
+				"name": "Note 7 9"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_8.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_8_thumb.png",
+				"name": "Note 7 8"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_7_thumb.png",
+				"name": "Note 7 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_6_thumb.png",
+				"name": "Note 7 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_5_thumb.png",
+				"name": "Note 7 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_4_thumb.png",
+				"name": "Note 7 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_3_thumb.png",
+				"name": "Note 7 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_2_thumb.png",
+				"name": "Note 7 2"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note7_1_thumb.png",
+				"name": "Note 7 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_6_thumb.png",
+				"name": "Galaxy Tab 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_5_thumb.png",
+				"name": "Galaxy Tab 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_4_thumb.png",
+				"name": "Galaxy Tab 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_3_thumb.png",
+				"name": "Galaxy Tab 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_2_thumb.png",
+				"name": "Galaxy Tab 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxytab_1_thumb.png",
+				"name": "Galaxy Tab 1"	
+			}
+		]
+}
