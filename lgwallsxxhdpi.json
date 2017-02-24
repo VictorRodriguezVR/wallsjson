@@ -184,24 +184,6 @@
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_20.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_20_thumb.png",
-				"name": "G5 20"	
-			},
-			{
-				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_19.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_19_thumb.jpg",
-				"name": "G5 19"	
-			},
-			{
-				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_18.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_18_thumb.jpg",
-				"name": "G5 18"	
-			},
-			{
-				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_17.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_17_thumb.jpg",
 				"name": "G5 17"	
@@ -222,7 +204,85 @@
 				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_14.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_14_thumb.jpg",
-				"name": "G5 14"				
+				"name": "G5 14"	
+						},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_13.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_13_thumb.jpg",
+				"name": "G5 13"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_12_thumb.jpg",
+				"name": "G5 12"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_11_thumb.jpg",
+				"name": "G5 11"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_10_thumb.jpg",
+				"name": "G5 10"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_9_thumb.jpg",
+				"name": "G5 9"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_8.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_8_thumb.jpg",
+				"name": "G5 8"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_7.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_7_thumb.png",
+				"name": "G5 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_6_thumb.png",
+				"name": "G5 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_5_thumb.png",
+				"name": "G5 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_4_thumb.png",
+				"name": "G5 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_3_thumb.png",
+				"name": "G5 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_2_thumb.png",
+				"name": "G5 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/g5_1_thumb.png",
+				"name": "G5 1"	
 			}
 		]
 }
