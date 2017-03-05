@@ -203,44 +203,80 @@
 			{
 				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense5_1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense_1_thumb.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense5_1_thumb.jpg",
 				"name": "Sense 5 1"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_6.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_6_thumb.png",
-				"name": "Note 6"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_12_thumb.jpg",
+				"name": "Sense 6 12"	
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_5.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_5_thumb.png",
-				"name": "Note 5"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_11_thumb.jpg",
+				"name": "Sense 6 11"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_4.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_4_thumb.png",
-				"name": "Note 4"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_10_thumb.jpg",
+				"name": "Sense 6 10"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_3.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_3_thumb.png",
-				"name": "Note 3"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_9_thumb.jpg",
+				"name": "Sense 6 9"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_2.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_2_thumb.png",
-				"name": "Note 2"	
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_8.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_8_thumb.jpg",
+				"name": "Sense 6 8"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_1.png",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/note5_1_thumb.png",
-				"name": "Note 1"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_7_thumb.jpg",
+				"name": "Sense 6 7"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_6_thumb.jpg",
+				"name": "Sense 6 6"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_5_thumb.jpg",
+				"name": "Sense 6 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_4_thumb.jpg",
+				"name": "Sense 6 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_3_thumb.jpg",
+				"name": "Sense 6 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_2_thumb.jpg",
+				"name": "Sense 6 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense6_1_thumb.jpg",
+				"name": "Sense 6 1"
 			},
 			{
 				"author": "VR",
