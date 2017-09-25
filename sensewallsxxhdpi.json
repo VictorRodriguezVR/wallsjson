@@ -606,7 +606,37 @@
 				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense8_1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/sense8_1_thumb.jpg",
-				"name": "Sense 8 1"	
+				"name": "Sense 8 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_5_thumb.jpg",
+				"name": "U11 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_4_thumb.jpg",
+				"name": "U11 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_3_thumb.jpg",
+				"name": "U11 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_2_thumb.jpg",
+				"name": "U11 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/u11_1_thumb.jpg",
+				"name": "U11 1"	
 			}
 		]
 }
