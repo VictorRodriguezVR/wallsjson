@@ -918,7 +918,19 @@
 				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxya7_1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxya7_1_thumb.png",
-				"name": "Galaxy A7 1"	
+				"name": "Galaxy A7 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/oneui_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/oneui_2_thumb.jpg",
+				"name": "One UI 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/oneui_1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/oneui_1_thumb.jpg",
+				"name": "One UI 1"	
 			}
 		]
 }
