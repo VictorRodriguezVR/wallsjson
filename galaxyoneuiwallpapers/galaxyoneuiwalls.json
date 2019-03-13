@@ -922,15 +922,39 @@
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/oneui_2.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/oneui_2_thumb.jpg",
-				"name": "One UI 2"
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_6_thumb.png",
+				"name": "Galaxy S10 6"
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/oneui_1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/oneui_1_thumb.jpg",
-				"name": "One UI 1"	
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_5_thumb.png",
+				"name": "Galaxy S10 5"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_4_thumb.png",
+				"name": "Galaxy S10 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_3_thumb.png",
+				"name": "Galaxy S10 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_2_thumb.png",
+				"name": "Galaxy S10 2"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/galaxys10_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/galaxyoneuiwallpapers/thumb/galaxys10_1_thumb.png",
+				"name": "Galaxy S10 1"	
 			}
 		]
 }
