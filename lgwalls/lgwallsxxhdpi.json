@@ -613,6 +613,12 @@
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g7_1.png",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g7_1_thumb.png",
 				"name": "G7 1"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_1_thumb.jpg",
+				"name": "G8 1"	
 			}
 		]
 }
