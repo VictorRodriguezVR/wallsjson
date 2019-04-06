@@ -750,7 +750,31 @@
 				"author": "VR",
 				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/xperiaxz3_1.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/thumb/xperiaxz3_1_thumb.jpg",
-				"name": "Xperia XZ3 1"	
+				"name": "Xperia XZ3 1"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/xperia10_4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/thumb/xperia10_4_thumb.png",
+				"name": "Xperia 10 4"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/xperia10_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/thumb/xperia10_3_thumb.png",
+				"name": "Xperia 10 3"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/xperia10_2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/thumb/xperia10_2_thumb.png",
+				"name": "Xperia 10 2"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/xperia10_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/xperiawalls/thumb/xperia10_1_thumb.png",
+				"name": "Xperia 10 1"	
 			}
 		]
 }
