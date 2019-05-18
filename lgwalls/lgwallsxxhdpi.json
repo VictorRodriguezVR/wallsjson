@@ -616,9 +616,99 @@
 			},
 			{
 				"author": "VR",
-				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_1.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_1_thumb.jpg",
-				"name": "G8 1"	
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_16.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_16_thumb.jpg",
+				"name": "G8 16"
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_15.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_15_thumb.jpg",
+				"name": "G8 15"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_14.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_14_thumb.jpg",
+				"name": "G8 14"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_13.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_13_thumb.jpg",
+				"name": "G8 13"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_12.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_12_thumb.jpg",
+				"name": "G8 12"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_11_thumb.jpg",
+				"name": "G8 11"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_10.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_10_thumb.jpg",
+				"name": "G8 10"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_9_thumb.jpg",
+				"name": "G8 9"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_8.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_8_thumb.jpg",
+				"name": "G8 8"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_7_thumb.jpg",
+				"name": "G8 7"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_6_thumb.png",
+				"name": "G8 6"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_5_thumb.png",
+				"name": "G8 5"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_4_thumb.jpg",
+				"name": "G8 4"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_3_thumb.png",
+				"name": "G8 3"	
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_2_thumb.jpg",
+				"name": "G8 2"		
+			},
+			{
+				"author": "VR",
+				"url": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/g8_1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/VictorRodriguezVR/wallsjson/master/lgwalls/thumb/g8_1_thumb.png",
+				"name": "G8 1"		
 			}
 		]
 }
